@@ -4,7 +4,7 @@
 
 using namespace std;
 
-#define NUM_THREAD 3
+#define NUM_THREAD 5
 
 void *PrintHello(void* threadid)
 {
