@@ -3,7 +3,7 @@
 
 using namespace std;
 
-#define NUM_THREADS 5
+#define NUM_THREADS 9
 
 void* say_hello(void* args)
 {

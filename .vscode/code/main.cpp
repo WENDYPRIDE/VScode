@@ -4,7 +4,7 @@
  
 using namespace std;
  
-#define NUM_THREADS 5
+#define NUM_THREADS 7
  
 // 线程的运行函数
 void* say_hello(void* args)
